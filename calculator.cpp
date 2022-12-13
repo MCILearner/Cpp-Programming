@@ -9,7 +9,7 @@ int main()
 	cin>>valueOne;
 	
 	cout<<"Please enter value two";
-	cin<<valueTwo;
+	cin>>valueTwo;
 	
 	cout<<valueOne+valueTwo;
 
